@@ -1,8 +1,6 @@
 <template>
-	<h1 class="text-white text-2xl">
-		Kong Zhen Kit - Developer & Web 3 Enthusiast
-	</h1>
-	<p class="text-white">
+	<p class="text-white text-xl">Kong Zhen Kit - Developer & Web 3 Enthusiast</p>
+	<p class="text-white text-sm">
 		Exploring Solidity and smart contracts. Based in Kuala Lumpur, MY.
 	</p>
 </template>
