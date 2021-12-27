@@ -34,7 +34,7 @@
 			const convertDate = (items) => {
 				for (let item of items) {
 					if (item) {
-						let blogDate = new Date(item.pubDate)
+						let blogDate = new Date(item.pubDate.replace(/-/g, '/'))
 						item.pubDate = blogDate.toLocaleDateString()
 					}
 				}
