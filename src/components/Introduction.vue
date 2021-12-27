@@ -1,8 +1,6 @@
 <template>
-	<p class="text-white text-xl">
-		Kong Zhen Kit - JavaScript Developer & Web 3 Enthusiast
-	</p>
+	<p class="text-white text-xl">Kong Zhen Kit - JavaScript Developer</p>
 	<p class="text-white text-sm">
-		Exploring Solidity and smart contracts. Based in Kuala Lumpur, MY.
+		Exploring Vue, Nuxt and Solidity. Based in Kuala Lumpur, MY.
 	</p>
 </template>
